@@ -21,5 +21,5 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## For detailed explanation on how things work, checkout following links
 
-* [vuetify] (https://vuetifyjs.com/en/)
-* [vuelidate] (https://vuelidate.js.org/)
+* [vuetify](https://vuetifyjs.com/en/)
+* [vuelidate](https://vuelidate.js.org/)
